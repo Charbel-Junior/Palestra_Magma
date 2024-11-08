@@ -1,10 +1,10 @@
 
 # Função para calcular o quadrado dos números em uma lista
-def calcula_quadrado(lista_numeros)
+def calcula_quadrados[lista_numeros]
     quadrados = []
     for numero in lista_numeros:
-    quadrado = numero ** 2 
-        quadrados.append(quadrado)  
+        quadrado = numero ** 2
+    quadrados.append(quadrado)
 
     return quadrado  # ERRO: deve retornar 'quadrados' em vez de 'quadrado'
 
